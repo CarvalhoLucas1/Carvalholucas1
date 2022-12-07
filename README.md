@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first job in development 
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS and React
 
 <!--
 
